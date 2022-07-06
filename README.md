@@ -15,8 +15,8 @@ Link do Projeto
 ## Para executar o projeto ⤸
 
 1. `git clone` nesse repositório;
-2. Ter a extenção live server no seu vscode;
-3. Clicar com o botão direito, encima do arquivo `index.html` e selecionar `Abrir com live server` 
+2. Acessa pasta do repositório e executa `yarn` ou `npm` pra instalar as dependências;
+3. Executa `yarn dev` ou `npm run dev` pra iniciar o projeto
 
 
   
