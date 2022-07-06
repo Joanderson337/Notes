@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom"
 import styled from "styled-components";
 
 export const Container = styled.header`
@@ -18,7 +19,7 @@ export const Container = styled.header`
   
 `
 
-export const Profile = styled.div`
+export const Profile = styled(Link)`
   display: flex;
   align-items: center;
 
@@ -51,7 +52,7 @@ export const Logout = styled.button`
   background: none;
 
   > svg {
-    color : ${({ theme}) => theme.COLORS.GRAY_100} ;
+    color : ${({ theme }) => theme.COLORS.GRAY_100} ;
     font-size: 24px;
   }
 `
