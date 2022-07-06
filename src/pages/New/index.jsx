@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom"
 
-import { Button } from "../../Components/button"
+import { Button } from "../../Components/Button"
 import { Header } from "../../Components/Header"
 import { Input } from "../../Components/Input"
 import { NoteItem } from "../../Components/NoteItem";
@@ -27,16 +27,16 @@ export function New() {
 
           <Section title="Links úteis">
 
-          <NoteItem value="www.google.com" />
-          <NoteItem isNew  placeholder="Novo link"/>
+            <NoteItem value="www.google.com" />
+            <NoteItem isNew placeholder="Novo link" />
 
           </Section>
 
 
-          
+
           <Section title="Marcadores">
             <div className='tags'>
-              
+
               <NoteItem value="React" />
               <NoteItem isNew placeholder="Nova tag" />
 
