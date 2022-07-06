@@ -2,7 +2,7 @@
 
 Link do Projeto
 
-<a link href="" target="_blank">![Site](https://shields.io/badge/acessar-Site-green?&style=for-the-badge)</a>
+<a link href="https://rocketnotes.vercel.app/" target="_blank">![Site](https://shields.io/badge/acessar-Site-green?&style=for-the-badge)</a>
 
 
 ## Stack utilizada
