@@ -11,7 +11,7 @@ export function SignIn() {
 
       <Form>
 
-        <h1>Rocketnotes</h1>
+        <h1>Notes</h1>
 
         <p>Aplicação para salvar e gerenciar seus links  úteis</p>
 
